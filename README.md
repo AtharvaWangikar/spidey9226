@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @spidey9226
-- 👀 I’m interested in ...Web Development, UI/UX, AI/ML and currently exploring other fields.
-- 🌱 I’m currently learning ...mySQL, django, etc.
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Atharva Wangikar @spidey9226
+- 👀 I’m interested in ...Web Development and Data Analytics .
+- 🌱 I’m currently learning ...PowerBI, NEXT.js.
 - 📫 How to reach me ... wangikarav1@gmail.com
 
 <!---
